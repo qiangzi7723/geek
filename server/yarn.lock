@@ -1259,7 +1259,7 @@ etag@~1.8.1:
 
 event-stream@~3.3.0:
   version "3.3.4"
-  resolved "http://registry.npmjs.org/event-stream/-/event-stream-3.3.4.tgz#4ab4c9a0f5a54db9338b4c34d86bfce8f4b35571"
+  resolved "https://registry.npmjs.org/event-stream/-/event-stream-3.3.4.tgz#4ab4c9a0f5a54db9338b4c34d86bfce8f4b35571"
   dependencies:
     duplexer "~0.1.1"
     from "~0"
@@ -3724,13 +3724,17 @@ punycode@^1.4.1:
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-1.4.1.tgz#c0d5a63b2718800ad8e1eb0fa5269c84dd41845e"
 
-qs@^6.4.0, qs@^6.5.1, qs@^6.5.2, qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
+qs@^6.4.0, qs@^6.5.1, qs@^6.9.7:
+  version "6.9.7"
+  resolved "https://registry.npmmirror.com/qs/-/qs-6.9.7.tgz#4610846871485e1e048f44ae3b94033f0e675afe"
 
 qs@~2.3.3:
   version "2.3.3"
   resolved "https://registry.yarnpkg.com/qs/-/qs-2.3.3.tgz#e9e85adbe75da0bbe4c8e0476a086290f863b404"
+
+qs@~6.5.2:
+  version "6.5.2"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
 
 randomatic@^3.0.0:
   version "3.1.0"
@@ -4827,7 +4831,7 @@ xdg-basedir@^3.0.0:
 
 xml-crypto@~0.8.0:
   version "0.8.5"
-  resolved "http://registry.npmjs.org/xml-crypto/-/xml-crypto-0.8.5.tgz#2bbcfb3eb33f3a82a218b822bf672b6b1c20e538"
+  resolved "https://registry.npmjs.org/xml-crypto/-/xml-crypto-0.8.5.tgz#2bbcfb3eb33f3a82a218b822bf672b6b1c20e538"
   dependencies:
     xmldom "=0.1.19"
     xpath.js ">=0.0.3"
