@@ -9,7 +9,7 @@
     "@koa/cors": "2",
     "config": "^1.30.0",
     "ioredis": "^3.2.2",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "knex": "^0.14.6",
     "koa": "^2.4.1",
     "koa-body": "^2.5.0",
